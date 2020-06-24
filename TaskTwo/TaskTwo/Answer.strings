@@ -1,0 +1,9 @@
+/* 
+  Answer.strings
+  TaskTwo
+
+  Created by Artem Golovanev on 6/17/20.
+  Copyright © 2020 Artem Golovanev. All rights reserved.
+*/
+
+"Принт не будет выполнен, тк произойдет падение - очередь будет заблокированна синхронным блоком."
